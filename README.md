@@ -5,6 +5,7 @@
 > - [`feat/oxc-icon`](https://github.com/spotdemo4/vscode-icons/tree/feat/oxc-icon): adds an `oxfmt` icon for Oxc's `.oxlintrc.json`, `oxlint.config.ts`, `.oxfmtrc.json`, `.oxfmtrc.jsonc` and `oxfmt.config.ts` ([catppuccin/vscode-icons#670](https://github.com/catppuccin/vscode-icons/pull/670)), plus a fix to use each flavour's blue instead of Mocha's
 > - [`feat/sqlfluff-icon`](https://github.com/spotdemo4/vscode-icons/tree/feat/sqlfluff-icon): adds `sqlfluff` and `sqlfluff-ignore` icons for SQLFluff's `.sqlfluff` and `.sqlfluffignore` ([catppuccin/vscode-icons#698](https://github.com/catppuccin/vscode-icons/pull/698))
 > - [`feat/zon-association`](https://github.com/spotdemo4/vscode-icons/tree/feat/zon-association): gives `.zon` files, such as `build.zig.zon`, the `zig` icon ([catppuccin/vscode-icons#700](https://github.com/catppuccin/vscode-icons/pull/700))
+> - [`feat/buf-icon`](https://github.com/spotdemo4/vscode-icons/tree/feat/buf-icon): adds a `buf` icon for Buf's `buf.yaml`, `buf.gen.yaml`, `buf.work.yaml` and `buf.lock` ([catppuccin/vscode-icons#702](https://github.com/catppuccin/vscode-icons/pull/702))
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
