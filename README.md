@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is a fork of [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons). `main` is upstream's `main` with these branches merged in, each opened upstream as a PR:
+>
+> - [`feat/renovate-jsonc-associations`](https://github.com/spotdemo4/vscode-icons/tree/feat/renovate-jsonc-associations): gives `renovate.jsonc`, `.renovaterc.json5` and `.renovaterc.jsonc` the `renovate` icon ([catppuccin/vscode-icons#696](https://github.com/catppuccin/vscode-icons/pull/696))
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
