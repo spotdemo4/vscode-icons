@@ -1,7 +1,8 @@
 > [!NOTE]
-> This is a fork of [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons). `main` is upstream's `main` with these branches merged in, each opened upstream as a PR:
+> This is a fork of [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons). `main` is upstream's `main` with these branches merged in, each matching an upstream PR:
 >
 > - [`feat/renovate-jsonc-associations`](https://github.com/spotdemo4/vscode-icons/tree/feat/renovate-jsonc-associations): gives `renovate.jsonc`, `.renovaterc.json5` and `.renovaterc.jsonc` the `renovate` icon ([catppuccin/vscode-icons#696](https://github.com/catppuccin/vscode-icons/pull/696))
+> - [`feat/oxc-icon`](https://github.com/spotdemo4/vscode-icons/tree/feat/oxc-icon): adds an `oxfmt` icon for Oxc's `.oxlintrc.json`, `oxlint.config.ts`, `.oxfmtrc.json`, `.oxfmtrc.jsonc` and `oxfmt.config.ts` ([catppuccin/vscode-icons#670](https://github.com/catppuccin/vscode-icons/pull/670))
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
