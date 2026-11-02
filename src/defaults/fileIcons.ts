@@ -2437,6 +2437,12 @@ const fileIcons: FileIcons = {
   'spwn': {
     fileExtensions: ['spwn'],
   },
+  'sqlfluff-ignore': {
+    fileNames: ['.sqlfluffignore'],
+  },
+  'sqlfluff': {
+    fileNames: ['.sqlfluff'],
+  },
   'squirrel': {
     languageIds: ['squirrel'],
     fileExtensions: ['nut'],
